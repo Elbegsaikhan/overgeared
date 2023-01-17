@@ -10,6 +10,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
@@ -32,7 +41,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "prettierjs.PrettierConfiguration.Package": "/Users/elbegsaikhanamgalan/.nvm/versions/node/v16.13.1/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "/Users/elbegsaikhanamgalan/Developer/Next.js/overgeared/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673959757855</updated>
       <workItem from="1673959759668" duration="192000" />
-      <workItem from="1673959958080" duration="609000" />
+      <workItem from="1673959958080" duration="1846000" />
+      <workItem from="1673961837887" duration="3665000" />
     </task>
     <servers />
   </component>
